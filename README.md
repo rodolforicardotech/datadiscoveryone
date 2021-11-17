@@ -1,4 +1,4 @@
-Equipe Data DiscveryOne
+Equipe Data DiscoveryOne
 ==============================
 
 Projeto realizado na formação do Instituto Atlântico - Atlântico Academy Future
@@ -27,10 +27,10 @@ Neste sentido, no diretório notebook na branch main, está o arquivo referente 
 
 ## Desenvolvedores
 
-Arildo Alves
-Nator Júnior
-Germano Fenner
-Maurício Moura
+Arildo Alves<br>
+Nator Júnior<br>
+Germano Fenner<br>
+Maurício Moura<br>
 Rodolfo Ricardo
 
 Project Organization
