@@ -1,13 +1,17 @@
 Equipe Data DiscoveryOne
 ==============================
 
+Equipe Data DiscoveryOne
+==============================
+![Badge](https://img.shields.io/badge/Version-0.1.0-%237159c1?style=for-the-badge&logo=github) 
+
 Projeto realizado na formação do Instituto Atlântico - Atlântico Academy Future
 
-## Análise de Compras da Olist
+## 🎯 Análise de Compras da Olist
 
 A Olist é uma startup brasileira que atua no segmento de vendas pela internet (e-commerce). Através da sua plataforma de serviços, ela é um mediador e possibilita que outras empresas se inscrevem e vendam seus produtos. Em e-commerce, isso é conhecido como marketplace, ou seja, trata-se de uma loja virtual (a Olist) em que o cliente acessa a um site e compra produtos de diversos varejistas, pagando tudo junto, em um único lugar. Sendo assim, a Olist oferta diversas vitrines, como e fosse um shopping, vendendo os mais diversos itens.
 
-## Objetivos e resultados chave
+## 📲  Objetivos e resultados chave
 
 O dataset da Olist, conjunto de dados, concentra diversas informações relacionadas as compras e vendas realizadas por meio da sua plataforma de serviços.
 Através dos reviews, análise crítica de dados, do dataset da Olist em relação as compras e vendas realizadas, este trabalho tem os seguintes objetivos:
@@ -20,18 +24,22 @@ Satisfação de uso dos serviços disponibilizados na plataforma (boa, ruim);
 Quantitativo e percentual de grupos de respostas;
 Orientação para tomada de com base nos resultados gerados.
 
-## Conteúdo
+## 🛫  Conteúdo
 
 O repositório está organizado seguindo a ideia básica do git-flow, sendo assim, algumas branchs estão disponíveis, sendo elas: a main, onde estão as versões estáveis do código, a develop, que é a linha do tempo principal de desenvolvimento, ou seja, as novas features deverão ser incluídas nela. Por fim, todas as features/atividades são realizadas em uma branch separada e assim que for finalizada é mesclada na develop.  
 Neste sentido, no diretório notebook na branch main, está o arquivo referente a primeira entrega, com a exploração de dados inicial, que contem uma avaliação primaria, sobre a quantidade de dados disponíveis e as condições iniciais, está incluído também uma versão inicial da classificação, usando Gaussian Naive Bayes e transformação dos dados usando bag of words.
 
-## Desenvolvedores
-
-Arildo Alves<br>
-Nator Júnior<br>
-Germano Fenner<br>
-Maurício Moura<br>
-Rodolfo Ricardo
+## 👀 Desenvolvedores
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/natorjunior"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51802728?v=4" width="100px;" alt=""/><br /><sub><b>Nator Júnior</b></sub></a><br /><a href="https://github.com/natorjunior" title="Nator Junior">👨‍🚀</a></td>   
+    <td align="center"><a href="https://github.com/rodolforicardo7/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62383654?v=4" width="100px;" alt=""/><br /><sub><b>Rodolfo Ricardo</b></sub></a><br /><a href="https://github.com/rodolforicardo7/" title="Rodolfo">👨‍🚀</a></td>
+<td align="center"><a href="https://github.com/aamnzs"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50277296?v=4" width="100px;" alt=""/><br /><sub><b>Arildo Alves</b></sub></a><br /><a href="https://github.com/aamnzs" title="Arildo Alves">👨‍🚀</a></td>
+<td align="center"><a href="https://github.com/germanofenner"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92865901?v=4" width="100px;" alt=""/><br /><sub><b>Germano Fenner</b></sub></a><br /><a href="https://github.com/germanofenner" title="Germano Fenner">👨‍🚀</a></td>
+<td align="center"><a href="https://github.com/maumauio"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54122968?v=4" width="100px;" alt=""/><br /><sub><b>Maurício Moura</b></sub></a><br /><a href="https://github.com/maumauio" title="Maurício Moura">👨‍🚀</a></td>
+  </tr>
+</table>
+<br>
 
 Project Organization
 ------------
