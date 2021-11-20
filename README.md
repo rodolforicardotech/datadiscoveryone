@@ -1,8 +1,5 @@
 Equipe Data DiscoveryOne
 ==============================
-
-Equipe Data DiscoveryOne
-==============================
 ![Badge](https://img.shields.io/badge/Version-0.1.0-%237159c1?style=for-the-badge&logo=github) 
 
 Projeto realizado na formação do Instituto Atlântico - Atlântico Academy Future
