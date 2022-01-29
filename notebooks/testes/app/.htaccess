@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^viewer/(.*)$ http://207.244.237.78:8501/$1 [P]

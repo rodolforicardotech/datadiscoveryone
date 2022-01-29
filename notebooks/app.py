@@ -68,4 +68,5 @@ else:
 
 if txt != '':
     st.write(model.predict_proba([txt]))
-    #txt
+
+
